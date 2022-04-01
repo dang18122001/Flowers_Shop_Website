@@ -8,7 +8,7 @@
         session_start();
         
         // Create connection
-        $conn = new mysqli("sql1.njit.edu", "hd267", "D@ng181201", "hd267");
+        $conn = new mysqli("sql1.njit.edu", "hd267", "*****", "hd267");
         // Check connection
         if ($conn->connect_error) {
             die("Connection failed: " . $conn->connect_error);
