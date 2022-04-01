@@ -53,5 +53,25 @@
             </div>    
         </form>
     </div>
+    <div class="test-data">
+            <h3>This is a florist data for testing.</h3>
+            <table>
+                <tr>
+                    <td>Florist_ID</td>
+                    <td>First_Name</td>
+                    <td>Last_Name</td>
+                    <td>Florist_Password</td>
+                    <td>Email_Address</td>
+                    <td>Phone_Number</td>
+                </tr>
+                <tr>
+                    <td>12348765</td>
+                    <td>Dang</td>
+                    <td>Huynh</td>
+                    <td>Dang1234</td>
+                    <td>dangh@gmail.com</td>
+                    <td>216-771-8529</td>
+            </table>
+        </div>
 </body>
 </html>
